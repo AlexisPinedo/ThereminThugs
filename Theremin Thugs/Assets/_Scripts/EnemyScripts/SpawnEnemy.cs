@@ -4,10 +4,15 @@ using UnityEngine;
 
 public class SpawnEnemy : MonoBehaviour
 {
-    public Transform Spawnpoint;
-    public GameObject Prefab;
+    
+    [SerializeField]
+    private Transform Spawnpoint;
+    [SerializeField]
+    private GameObject Prefab;
+    
+    
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
         Instantiate(Prefab, Spawnpoint.position, Spawnpoint.rotation);
     }
