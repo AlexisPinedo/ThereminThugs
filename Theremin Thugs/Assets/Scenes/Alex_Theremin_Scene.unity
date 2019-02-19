@@ -389,7 +389,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   noteText: {fileID: 723218969}
   volumeText: {fileID: 2035025912}
-  octaveText: {fileID: 0}
+  octaveText: {fileID: 1698372084}
 --- !u!4 &983356362
 Transform:
   m_ObjectHideFlags: 0
