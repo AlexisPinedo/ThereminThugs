@@ -17,10 +17,5 @@ public class PlayerMovement : MonoBehaviour
 
         // Move the object forward in world space 1 unit/second.
         transform.Translate(Vector3.right * Time.deltaTime, Space.World);
-        
-        InputReceiver instance = new InputReceiver();
-
-        int theumber = instance.number;
-        instance.number = 3;
     }
 }

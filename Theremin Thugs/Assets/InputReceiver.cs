@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class InputReceiver : MonoBehaviour
 {
@@ -53,6 +54,10 @@ public class InputReceiver : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.R))
             if (ScrollWheelUpdateEvent != null)
                 keyButtonUpdateEvent.Invoke(3);
+        if (Input.GetKeyDown(KeyCode.Escape))
+            Application.Quit();
+        if (Input.GetKeyDown(KeyCode.P))
+            SceneManager.LoadScene(0);
 
         if (Input.GetButtonDown("Lclick"))
             if (mouseClickUpdateEvent != null)
