@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd431a6-d945-4da3-8119-e9a064d0390e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Art/EnemyModel/Thanos-Kirby.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/EnemyModel/Thanos-Kirby.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/player.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/player.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Ariel's Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Ariel's Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Health.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Health.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyScripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/FadeInScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/FadeInScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/FadeOutScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/FadeOutScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/SpawnEnemy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/SpawnEnemy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/CameraScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/CameraScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Theremin Thugs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Theremin Thugs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputReceiver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputReceiver.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/prototypeScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/prototypeScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Theremin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Theremin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/PlayerMovement.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,17 +46,78 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1414216569">
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="366" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="366" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <folding>
+                <marker date="1550627330011" expanded="false" signature="6:106" ph="..." />
+                <marker date="1550627330011" expanded="true" signature="151:674" ph="{...}" />
+                <marker date="1550627330011" expanded="true" signature="259:672" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyScripts/SpawnEnemy.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="255">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
-                <marker date="1550618591832" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550618591832" expanded="true" signature="119:318" ph="{...}" />
-                <marker date="1550618591832" expanded="true" signature="233:316" ph="{...}" />
+                <marker date="1550619065354" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550619065354" expanded="true" signature="119:381" ph="{...}" />
+                <marker date="1550619065354" expanded="true" signature="296:379" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/InputReceiver.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+              <folding>
+                <marker date="1550627277823" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550627277823" expanded="true" signature="122:1894" ph="{...}" />
+                <marker date="1550627277823" expanded="true" signature="497:727" ph="/* private int _number; ... */" />
+                <marker date="1550627277823" expanded="true" signature="786:1892" ph="{...}" />
+                <marker date="1550627277823" expanded="true" signature="896:1057" ph="{...}" />
+                <marker date="1550627277823" expanded="true" signature="954:1047" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -83,7 +129,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyScripts/SpawnEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InputReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Theremin.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,6 +141,10 @@
         <option value="$PROJECT_DIR$/Assets/Script/LoseLife.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/EnemyScripts/SpawnEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Theremin.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/InputReceiver.cs" />
       </list>
     </option>
   </component>
@@ -102,9 +155,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="1178" />
-    <option name="height" value="1039" />
+    <option name="x" value="-10" />
+    <option name="width" value="1179" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -112,9 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
@@ -128,10 +178,19 @@
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
               <item name="_Scripts" type="1045f7f1:UnityExplorerNode" />
             </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="_Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="EnemyScripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -183,11 +242,12 @@
       <workItem from="1550089125752" duration="1405000" />
       <workItem from="1550104144021" duration="261000" />
       <workItem from="1550124876818" duration="4458000" />
+      <workItem from="1550626888132" duration="438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6947000" />
+    <option name="totallyTimeSpent" value="8815000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -199,10 +259,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18120806" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18389262" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -251,5 +311,51 @@
     <entry file="file://$PROJECT_DIR$/Assets/Script/LoseLife.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Script/Health.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Theremin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-445">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyScripts/SpawnEnemy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1550619065354" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550619065354" expanded="true" signature="119:381" ph="{...}" />
+            <marker date="1550619065354" expanded="true" signature="296:379" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <marker date="1550627330011" expanded="false" signature="6:106" ph="..." />
+            <marker date="1550627330011" expanded="true" signature="151:674" ph="{...}" />
+            <marker date="1550627330011" expanded="true" signature="259:672" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/InputReceiver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <folding>
+            <marker date="1550627277823" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550627277823" expanded="true" signature="122:1894" ph="{...}" />
+            <marker date="1550627277823" expanded="true" signature="497:727" ph="/* private int _number; ... */" />
+            <marker date="1550627277823" expanded="true" signature="786:1892" ph="{...}" />
+            <marker date="1550627277823" expanded="true" signature="896:1057" ph="{...}" />
+            <marker date="1550627277823" expanded="true" signature="954:1047" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

@@ -7,10 +7,15 @@ public class Theremin : MonoBehaviour
 {
     float mouseWheelValue;
     int note;
-    enum musicNotes{
-        lowC, D, E, F, G, A, B, highC
+    
+    [System.Serializable]
+    public enum musicNotes{
+        lowC = 0, 
+        FuckYou,
+        D = 1, 
+        E, F, G, A, B, highC
     }
-    musicNotes aNote;
+    public musicNotes aNote;
 
     enum volume
     {

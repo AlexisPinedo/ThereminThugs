@@ -12,7 +12,23 @@ public class InputReceiver : MonoBehaviour
 
     public delegate void mouseClickUpdate(int value);
     public static event mouseClickUpdate mouseClickUpdateEvent;
-
+    
+    
+    /*
+    private int _number;
+    public int number
+    {
+        get
+        {
+            return _number;
+        }
+        private set
+        {
+            OnNumberChanged();
+            _number = value;
+        }
+    }
+      */  
     // Update is called once per frame
     void Update()
     {
