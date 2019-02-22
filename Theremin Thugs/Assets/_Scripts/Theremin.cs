@@ -40,6 +40,13 @@ public class Theremin : MonoBehaviour
     /// <summary>
     /// FORGOT ON DISABLE RIP THAT IS WHY SCROLL AND BUTTONS DIE
     /// </summary>
+    
+    private void OnDisable()
+    {
+        InputReceiver.ScrollWheelUpdateEvent -= receiver_pitchUpdateEvent;
+        InputReceiver.keyButtonUpdateEvent -= receiver_volumeUpdateEvent;
+        InputReceiver.mouseClickUpdateEvent -= receiver_octaveUpdateEvent;
+    }
 
     private void Awake()
     {

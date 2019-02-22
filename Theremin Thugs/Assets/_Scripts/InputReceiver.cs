@@ -67,4 +67,12 @@ public class InputReceiver : MonoBehaviour
                 mouseClickUpdateEvent.Invoke(2);
 
     }
+
+
+    public void aMethod(int number)
+    {
+       // string number = "9";
+        //return number - 1;
+    }
+    
 }
