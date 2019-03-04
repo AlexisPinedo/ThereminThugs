@@ -33,9 +33,10 @@ public class Theremin : MonoBehaviour
 
     private void OnEnable()
     {
-        InputReceiver.ScrollWheelUpdateEvent += receiver_pitchUpdateEvent;
+        //InputReceiver.ScrollWheelUpdateEvent += receiver_pitchUpdateEvent;
         InputReceiver.keyButtonUpdateEvent += receiver_volumeUpdateEvent;
         //InputReceiver.mouseClickUpdateEvent += receiver_octaveUpdateEvent;
+        InputReceiver.mouseClickUpdateEvent += receiver_pitchUpdateEvent;
     }
     /// <summary>
     /// FORGOT ON DISABLE RIP THAT IS WHY SCROLL AND BUTTONS DIE
@@ -43,9 +44,10 @@ public class Theremin : MonoBehaviour
     
     private void OnDisable()
     {
-        InputReceiver.ScrollWheelUpdateEvent -= receiver_pitchUpdateEvent;
+        //InputReceiver.ScrollWheelUpdateEvent -= receiver_pitchUpdateEvent;
         InputReceiver.keyButtonUpdateEvent -= receiver_volumeUpdateEvent;
         //InputReceiver.mouseClickUpdateEvent -= receiver_octaveUpdateEvent;
+        InputReceiver.mouseClickUpdateEvent -= receiver_pitchUpdateEvent;
     }
 
     private void Awake()
@@ -59,7 +61,28 @@ public class Theremin : MonoBehaviour
 
     }
 
-    private void receiver_pitchUpdateEvent(float value)
+    private void receiver_pitchUpdateEvent(int value)
+    {
+        if (value == 0)
+        {
+
+            
+            aNote--;
+            if (aNote.CompareTo(musicNotes.lowC) < 0)
+                aNote = musicNotes.highC;
+        }
+        else if (value == 2)
+        {
+            aNote++;
+            if (aNote.CompareTo(musicNotes.highC) > 0)
+                aNote = 0;
+        }
+        noteText.text = aNote.ToString();
+
+    }
+    
+
+/*    private void receiver_pitchUpdateEvent(float value)
     {
         if (value > 0)
         {
@@ -74,7 +97,7 @@ public class Theremin : MonoBehaviour
                 aNote = musicNotes.highC;
         }
         noteText.text = aNote.ToString();
-    }
+    }*/
 
     private void receiver_volumeUpdateEvent(int value)
     {
