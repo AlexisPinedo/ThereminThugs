@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd431a6-d945-4da3-8119-e9a064d0390e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Theremin Thugs/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Theremin Thugs/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Theremin Thugs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Theremin Thugs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cinemachine/CinemachineExamples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cinemachine/Timeline/LegacyTimelineAPI.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Plugins/Editor/JetBrains.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Theremin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Theremin.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +19,7 @@
     <session id="-1296869487">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.7" value="1" />
@@ -45,12 +50,12 @@
     <session id="-1414216569">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="502" />
+          <entry key="cs" value="629" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="502" />
+          <entry key="C#" value="629" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -65,54 +70,38 @@
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/NoteBar.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-              <folding>
-                <marker date="1550874706175" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550874706175" expanded="true" signature="116:290" ph="{...}" />
-                <marker date="1550874706175" expanded="true" signature="188:209" ph="{...}" />
-                <marker date="1550874706175" expanded="true" signature="267:288" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Theremin.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state relative-caret-position="395">
+              <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
               <folding>
-                <marker date="1550869887193" expanded="true" signature="6:100" ph="..." />
-                <marker date="1550869887193" expanded="true" signature="139:2430" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="236:284" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="307:345" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="369:418" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="636:872" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="877:974" ph="/// FORGOT ON DISABLE RIP THAT IS WHY SCROLL AND BUTTONS DIE ... " />
-                <marker date="1550869887193" expanded="true" signature="1008:1244" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="1270:1494" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="1551:1915" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="1580:1703" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="1730:1867" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="1971:2094" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="2150:2428" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="2211:2260" ph="{...}" />
-                <marker date="1550869887193" expanded="true" signature="2321:2370" ph="{...}" />
+                <marker date="1551734857467" expanded="false" signature="6:100" ph="..." />
+                <marker date="1551734857467" expanded="true" signature="139:3072" ph="{...}" />
+                <marker date="1551734857467" expanded="true" signature="236:284" ph="{...}" />
+                <marker date="1551734857467" expanded="true" signature="289:353" ph="/* public enum octave ... */" />
+                <marker date="1551734857467" expanded="true" signature="377:426" ph="{...}" />
+                <marker date="1551734857467" expanded="true" signature="648:962" ph="{...}" />
+                <marker date="1551734857467" expanded="true" signature="967:1064" ph="/// FORGOT ON DISABLE RIP THAT IS WHY SCROLL AND BUTTONS DIE ... " />
+                <marker date="1551734857467" expanded="true" signature="1098:1412" ph="{...}" />
+                <marker date="1551734857467" expanded="true" signature="1438:1666" ph="{...}" />
+                <marker date="1551734857467" expanded="true" signature="1721:2103" ph="{...}" />
+                <marker date="1551734857467" expanded="true" signature="1751:1902" ph="{...}" />
+                <marker date="1551734857467" expanded="true" signature="1931:2054" ph="{...}" />
+                <marker date="1551734857467" expanded="true" signature="2110:2533" ph="/* private void receiver_pitchUpdateEvent(float value) ... */" />
+                <marker date="1551734857467" expanded="true" signature="2589:2712" ph="{...}" />
+                <marker date="1551734857467" expanded="true" signature="2718:3070" ph="/* private void receiver_octaveUpdateEvent(int value) ... */" />
               </folding>
             </state>
           </provider>
@@ -121,16 +110,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/InputReceiver.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-424">
+            <state relative-caret-position="380">
+              <caret line="64" column="42" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
               <folding>
-                <marker date="1550869887175" expanded="true" signature="6:113" ph="..." />
-                <marker date="1550869887175" expanded="true" signature="157:2202" ph="{...}" />
-                <marker date="1550869887175" expanded="true" signature="532:762" ph="/* private int _number; ... */" />
-                <marker date="1550869887175" expanded="true" signature="821:2085" ph="{...}" />
-                <marker date="1550869887175" expanded="true" signature="931:1092" ph="{...}" />
-                <marker date="1550869887175" expanded="true" signature="989:1082" ph="{...}" />
-                <marker date="1550869887175" expanded="true" signature="2123:2195" ph="{...}" />
-                <marker date="1550869887175" expanded="true" signature="2137:2189" ph="/* string number = &quot;9&quot;; ... */" />
+                <marker date="1550801381558" expanded="false" signature="6:113" ph="..." />
+                <marker date="1550801381558" expanded="true" signature="157:2202" ph="{...}" />
+                <marker date="1550801381558" expanded="true" signature="532:762" ph="/* private int _number; ... */" />
+                <marker date="1550801381558" expanded="true" signature="821:2085" ph="{...}" />
+                <marker date="1550801381558" expanded="true" signature="931:1092" ph="{...}" />
+                <marker date="1550801381558" expanded="true" signature="989:1082" ph="{...}" />
+                <marker date="1550801381558" expanded="true" signature="2123:2195" ph="{...}" />
+                <marker date="1550801381558" expanded="true" signature="2137:2189" ph="/* string number = &quot;9&quot;; ... */" />
               </folding>
             </state>
           </provider>
@@ -144,10 +134,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Theremin.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/NoteBar.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyScripts/SpawnEnemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/InputReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Theremin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyScripts/SpawnEnemy.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -160,8 +149,8 @@
         <option value="$PROJECT_DIR$/Assets/Theremin.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/InputReceiver.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Scripts/Theremin.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/InputReceiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Theremin.cs" />
       </list>
     </option>
   </component>
@@ -182,10 +171,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -262,12 +251,13 @@
       <workItem from="1550626888132" duration="438000" />
       <workItem from="1550790011452" duration="87000" />
       <workItem from="1550799499118" duration="1866000" />
-      <workItem from="1550870606982" duration="2827000" />
+      <workItem from="1550870606982" duration="2068000" />
+      <workItem from="1551734085457" duration="810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13595000" />
+    <option name="totallyTimeSpent" value="13646000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -280,8 +270,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19194631" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19463088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -334,79 +325,49 @@
     <entry file="file://$PROJECT_DIR$/Assets/InputReceiver.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyScripts/SpawnEnemy.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1550869887177" expanded="false" signature="6:106" ph="..." />
-            <marker date="1550869887177" expanded="true" signature="151:541" ph="{...}" />
-            <marker date="1550869887177" expanded="true" signature="259:539" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/InputReceiver.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-424">
-          <folding>
-            <marker date="1550869887175" expanded="true" signature="6:113" ph="..." />
-            <marker date="1550869887175" expanded="true" signature="157:2202" ph="{...}" />
-            <marker date="1550869887175" expanded="true" signature="532:762" ph="/* private int _number; ... */" />
-            <marker date="1550869887175" expanded="true" signature="821:2085" ph="{...}" />
-            <marker date="1550869887175" expanded="true" signature="931:1092" ph="{...}" />
-            <marker date="1550869887175" expanded="true" signature="989:1082" ph="{...}" />
-            <marker date="1550869887175" expanded="true" signature="2123:2195" ph="{...}" />
-            <marker date="1550869887175" expanded="true" signature="2137:2189" ph="/* string number = &quot;9&quot;; ... */" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Health.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1550869887171" expanded="false" signature="6:113" ph="..." />
-            <marker date="1550869887171" expanded="true" signature="150:681" ph="{...}" />
-            <marker date="1550869887171" expanded="true" signature="278:517" ph="{...}" />
-            <marker date="1550869887171" expanded="true" signature="354:447" ph="{...}" />
-            <marker date="1550869887171" expanded="true" signature="661:674" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/NoteBar.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/NoteBar.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/InputReceiver.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="380">
+          <caret line="64" column="42" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
           <folding>
-            <marker date="1550874706175" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550874706175" expanded="true" signature="116:290" ph="{...}" />
-            <marker date="1550874706175" expanded="true" signature="188:209" ph="{...}" />
-            <marker date="1550874706175" expanded="true" signature="267:288" ph="{...}" />
+            <marker date="1550801381558" expanded="false" signature="6:113" ph="..." />
+            <marker date="1550801381558" expanded="true" signature="157:2202" ph="{...}" />
+            <marker date="1550801381558" expanded="true" signature="532:762" ph="/* private int _number; ... */" />
+            <marker date="1550801381558" expanded="true" signature="821:2085" ph="{...}" />
+            <marker date="1550801381558" expanded="true" signature="931:1092" ph="{...}" />
+            <marker date="1550801381558" expanded="true" signature="989:1082" ph="{...}" />
+            <marker date="1550801381558" expanded="true" signature="2123:2195" ph="{...}" />
+            <marker date="1550801381558" expanded="true" signature="2137:2189" ph="/* string number = &quot;9&quot;; ... */" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Theremin.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        <state relative-caret-position="395">
+          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
           <folding>
-            <marker date="1550869887193" expanded="true" signature="6:100" ph="..." />
-            <marker date="1550869887193" expanded="true" signature="139:2430" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="236:284" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="307:345" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="369:418" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="636:872" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="877:974" ph="/// FORGOT ON DISABLE RIP THAT IS WHY SCROLL AND BUTTONS DIE ... " />
-            <marker date="1550869887193" expanded="true" signature="1008:1244" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="1270:1494" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="1551:1915" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="1580:1703" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="1730:1867" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="1971:2094" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="2150:2428" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="2211:2260" ph="{...}" />
-            <marker date="1550869887193" expanded="true" signature="2321:2370" ph="{...}" />
+            <marker date="1551734857467" expanded="false" signature="6:100" ph="..." />
+            <marker date="1551734857467" expanded="true" signature="139:3072" ph="{...}" />
+            <marker date="1551734857467" expanded="true" signature="236:284" ph="{...}" />
+            <marker date="1551734857467" expanded="true" signature="289:353" ph="/* public enum octave ... */" />
+            <marker date="1551734857467" expanded="true" signature="377:426" ph="{...}" />
+            <marker date="1551734857467" expanded="true" signature="648:962" ph="{...}" />
+            <marker date="1551734857467" expanded="true" signature="967:1064" ph="/// FORGOT ON DISABLE RIP THAT IS WHY SCROLL AND BUTTONS DIE ... " />
+            <marker date="1551734857467" expanded="true" signature="1098:1412" ph="{...}" />
+            <marker date="1551734857467" expanded="true" signature="1438:1666" ph="{...}" />
+            <marker date="1551734857467" expanded="true" signature="1721:2103" ph="{...}" />
+            <marker date="1551734857467" expanded="true" signature="1751:1902" ph="{...}" />
+            <marker date="1551734857467" expanded="true" signature="1931:2054" ph="{...}" />
+            <marker date="1551734857467" expanded="true" signature="2110:2533" ph="/* private void receiver_pitchUpdateEvent(float value) ... */" />
+            <marker date="1551734857467" expanded="true" signature="2589:2712" ph="{...}" />
+            <marker date="1551734857467" expanded="true" signature="2718:3070" ph="/* private void receiver_octaveUpdateEvent(int value) ... */" />
           </folding>
         </state>
       </provider>

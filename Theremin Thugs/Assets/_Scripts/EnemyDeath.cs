@@ -6,7 +6,7 @@ public class EnemyDeath : MonoBehaviour
 {
     public Theremin anInstance;
     public Theremin.musicNotes deathNote;
-    public Theremin.octave deathOctave;
+    //public Theremin.octave deathOctave;
     public Theremin.volume deathVolume;
 
     private void OnEnable()
@@ -16,15 +16,22 @@ public class EnemyDeath : MonoBehaviour
 
     private void receiver_VolumeTriggeredEvent(int volumeButton)
     {
-        Debug.Log("Event Triggered current volume is " + (Theremin.volume)volumeButton + " current note is " + anInstance.aNote 
-            + " current octave is " + anInstance.currentOctave);
+        //Debug.Log("Event Triggered current volume is " + (Theremin.volume)volumeButton + " current note is " + anInstance.aNote 
+        //    + " current octave is " + anInstance.currentOctave);
 
-        Debug.Log("Conditions to kill ghost are volume: " + deathVolume + " the octave needs to be " + deathOctave 
-            + " the note has to be " + deathNote);
-        if ((deathVolume.Equals((Theremin.volume)volumeButton)) && (deathNote.Equals(anInstance.aNote) ) && (deathOctave.Equals(anInstance.currentOctave)))
+        //Debug.Log("Conditions to kill ghost are volume: " + deathVolume + " the octave needs to be " + deathOctave 
+        //    + " the note has to be " + deathNote);
+        //if ((deathVolume.Equals((Theremin.volume)volumeButton)) && (deathNote.Equals(anInstance.aNote) ) && (deathOctave.Equals(anInstance.currentOctave)))
+        //{
+        //    Debug.Log("Conditions met");
+        //    this.gameObject.SetActive(false);
+        //}
+
+        if ((deathVolume.Equals((Theremin.volume)volumeButton)) && (deathNote.Equals(anInstance.aNote)))
         {
             Debug.Log("Conditions met");
-            this.gameObject.SetActive(false);
+            if(this.gameObject != null)
+                this.gameObject.SetActive(false);
         }
     }
 }

@@ -1,0 +1,15 @@
+Sequential Notes 
+To Kill Ghost
+LC Low Softest
+D High Loud
+F Normal Soft
+A Low Softest 
+HC Low Soft
+E Normal Loudest
+B Low Loudest
+G Low Softest
+LC Normal Softest
+B Normal Soft
+F High Loudest
+G Normal Softest
+A Normal Loud
