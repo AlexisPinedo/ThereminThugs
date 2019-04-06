@@ -159,7 +159,7 @@ GameObject:
   - component: {fileID: 716653339}
   - component: {fileID: 716653338}
   - component: {fileID: 716653337}
-  - component: {fileID: 716653336}
+  - component: {fileID: 716653345}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -265,7 +265,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 716653317}
   selectedCommands:
-  - {fileID: 716653336}
+  - {fileID: 716653345}
   variables: []
   description: 
   stepPause: 0
@@ -484,7 +484,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 430.06384
-    y: 193
+    y: 191.93617
     width: 125.744675
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -502,7 +502,7 @@ MonoBehaviour:
   - {fileID: 716653337}
   - {fileID: 716653338}
   - {fileID: 716653339}
-  - {fileID: 716653336}
+  - {fileID: 716653345}
 --- !u!114 &716653318
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -982,21 +982,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &716653336
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 716653304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9c784b19efbe8424fa879e0d6d883281, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 41
-  indentLevel: 0
-  loadingImage: {fileID: 0}
 --- !u!114 &716653337
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1217,6 +1202,25 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!114 &716653345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 716653304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d03ae0919f04264b018681ed534177, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 42
+  indentLevel: 0
+  _sceneName:
+    stringRef: {fileID: 0}
+    stringVal: Chapter 1
+  loadingImage: {fileID: 0}
+  sceneNameOLD: 
 --- !u!1 &779030558
 GameObject:
   m_ObjectHideFlags: 1
