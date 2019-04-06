@@ -346,9 +346,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 62825357}
-  selectedCommands:
-  - {fileID: 62825374}
+  - {fileID: 62825359}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -1462,6 +1461,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Claire
       objectReference: {fileID: 0}
+    - target: {fileID: 1203521642973792115, guid: fea8c14e6ba7b494f97d9c14f35cae76,
+        type: 3}
+      propertyPath: nameText
+      value: Claire
+      objectReference: {fileID: 0}
     - target: {fileID: 1128804736603582718, guid: fea8c14e6ba7b494f97d9c14f35cae76,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1516,11 +1520,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1203521642973792115, guid: fea8c14e6ba7b494f97d9c14f35cae76,
-        type: 3}
-      propertyPath: nameText
-      value: Claire
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fea8c14e6ba7b494f97d9c14f35cae76, type: 3}

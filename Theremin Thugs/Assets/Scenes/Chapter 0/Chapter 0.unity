@@ -423,8 +423,8 @@ GameObject:
   - component: {fileID: 716653339}
   - component: {fileID: 716653338}
   - component: {fileID: 716653337}
-  - component: {fileID: 716653336}
   - component: {fileID: 716653345}
+  - component: {fileID: 716653336}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -529,9 +529,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 716653305}
+  - {fileID: 716653317}
   selectedCommands:
-  - {fileID: 716653314}
+  - {fileID: 716653336}
   variables: []
   description: 
   stepPause: 0
@@ -757,7 +757,7 @@ MonoBehaviour:
   useCustomTint: 0
   itemId: 10
   blockName: Eat Breakfast
-  description: Progresses stroy to Chapter 1
+  description: Progresses story to Chapter 1
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 716653344}
@@ -1257,12 +1257,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 716653304}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9c784b19efbe8424fa879e0d6d883281, type: 3}
+  m_Script: {fileID: 11500000, guid: 00d03ae0919f04264b018681ed534177, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 41
+  itemId: 43
   indentLevel: 0
+  _sceneName:
+    stringRef: {fileID: 0}
+    stringVal: Chapter 1
   loadingImage: {fileID: 0}
+  sceneNameOLD: 
 --- !u!114 &716653337
 MonoBehaviour:
   m_ObjectHideFlags: 2
