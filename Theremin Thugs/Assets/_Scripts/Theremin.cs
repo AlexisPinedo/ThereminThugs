@@ -20,7 +20,8 @@ public class Theremin : MonoBehaviour
 
     public enum volume
     {
-        softest, soft, loud, loudest
+        softest = 0,
+        soft, loud, loudest
     }
 
     public volume theCurrentVolumeSetting;
@@ -38,9 +39,7 @@ public class Theremin : MonoBehaviour
         //InputReceiver.mouseClickUpdateEvent += receiver_octaveUpdateEvent;
         InputReceiver.mouseClickUpdateEvent += receiver_pitchUpdateEvent;
     }
-    /// <summary>
-    /// FORGOT ON DISABLE RIP THAT IS WHY SCROLL AND BUTTONS DIE
-    /// </summary>
+
     
     private void OnDisable()
     {
@@ -78,6 +77,7 @@ public class Theremin : MonoBehaviour
                 aNote = 0;
         }
         noteText.text = aNote.ToString();
+        
 
     }
     
@@ -102,6 +102,7 @@ public class Theremin : MonoBehaviour
     private void receiver_volumeUpdateEvent(int value)
     {
         theCurrentVolumeSetting = (volume)value;
+        Debug.Log(theCurrentVolumeSetting.ToString());
         volumeText.text = theCurrentVolumeSetting.ToString();
     }
 

@@ -43,17 +43,18 @@ public class InputReceiver : MonoBehaviour
         }
 
         if (Input.GetKeyDown(KeyCode.Q))
-            if (ScrollWheelUpdateEvent != null)
+            if (keyButtonUpdateEvent != null)
                 keyButtonUpdateEvent.Invoke(0);
         if (Input.GetKeyDown(KeyCode.W))
-            if (ScrollWheelUpdateEvent != null)
+            if (keyButtonUpdateEvent != null)
                 keyButtonUpdateEvent.Invoke(1);
         if (Input.GetKeyDown(KeyCode.E))
-            if (ScrollWheelUpdateEvent != null)
+            if (keyButtonUpdateEvent != null)
                 keyButtonUpdateEvent.Invoke(2);
         if (Input.GetKeyDown(KeyCode.R))
-            if (ScrollWheelUpdateEvent != null)
+            if (keyButtonUpdateEvent != null)
                 keyButtonUpdateEvent.Invoke(3);
+        
         if (Input.GetKeyDown(KeyCode.Escape))
             Application.Quit();
         if (Input.GetKeyDown(KeyCode.P))
