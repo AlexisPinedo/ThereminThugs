@@ -448,8 +448,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 48.06383
-    y: 111
-    width: 134
+    y: 108.560974
+    width: 133.90242
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -494,7 +494,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 26.574448
-    y: 48.93617
+    y: 47.716656
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -519,11 +519,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -158.6908, y: -13.728409}
+  scrollPos: {x: 31.524475, y: 62.413086}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 402
-  zoom: 1
+  blockViewHeight: 404
+  zoom: 0.8200002
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -531,9 +531,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 716653317}
-  selectedCommands:
-  - {fileID: 716653346}
+  - {fileID: 716653325}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -576,7 +575,7 @@ MonoBehaviour:
   storyText: Another morning in the making.
   description: 
   character: {fileID: 1067064474}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 21300000, guid: 1dd32c8011e367f498943525ad919ed7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -603,7 +602,7 @@ MonoBehaviour:
   storyText: 'I wonder what I should do first? '
   description: 
   character: {fileID: 1067064474}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 21300000, guid: 1dd32c8011e367f498943525ad919ed7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -630,7 +629,7 @@ MonoBehaviour:
   storyText: '*sigh*'
   description: 
   character: {fileID: 1067064474}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 21300000, guid: 1dd32c8011e367f498943525ad919ed7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -753,7 +752,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 440.70242
     y: 132.36182
-    width: 126
+    width: 125.12193
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -787,7 +786,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 438
     y: 85
-    width: 127.6
+    width: 129.99998
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1510,7 +1509,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1067064474}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 21300000, guid: 1dd32c8011e367f498943525ad919ed7, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 0}
@@ -2066,7 +2065,7 @@ PrefabInstance:
     - target: {fileID: 2423983154954752054, guid: b29e7be71e366de44b18139a0bf99767,
         type: 3}
       propertyPath: portraitsFace
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2423983154954752054, guid: b29e7be71e366de44b18139a0bf99767,
         type: 3}

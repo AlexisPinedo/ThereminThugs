@@ -509,19 +509,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 256.07703, y: 420.18497}
+  scrollPos: {x: 115.55708, y: 394.62894}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 494
-  zoom: 0.7000003
+  blockViewHeight: 519
+  zoom: 0.64000034
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 62825453}
+  selectedCommands:
+  - {fileID: 62825515}
   variables: []
   description: 
   stepPause: 0
@@ -565,7 +567,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 932783221}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   offset: 0
   fromPosition: {fileID: 1566121145}
   toPosition: {fileID: 61268474}
@@ -594,7 +596,7 @@ MonoBehaviour:
   storyText: Ah this is it, the old theater. . . Geez this place has seen better times.
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -675,7 +677,7 @@ MonoBehaviour:
   storyText: Oh wow, what happened here? Why is this place looking terrible?
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -703,7 +705,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1203521642973792115}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 2146735561}
@@ -733,7 +735,7 @@ MonoBehaviour:
     awaken by some whiner.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -760,7 +762,7 @@ MonoBehaviour:
   storyText: On second thought, not paying rent does sound good.
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -788,7 +790,7 @@ MonoBehaviour:
     will pay my rent . . . '
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -816,7 +818,7 @@ MonoBehaviour:
     this place could be haunted too.
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -843,7 +845,7 @@ MonoBehaviour:
   storyText: 'No wonder the city hasn''t fixed this place up: too scared."'
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -870,7 +872,7 @@ MonoBehaviour:
   storyText: Oh no, what if this place is haunted by murderers!
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -897,7 +899,7 @@ MonoBehaviour:
   storyText: Rent . . . no . . . pay . . . ghost. . .
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -924,7 +926,7 @@ MonoBehaviour:
   storyText: Oh! Oct? Is that you?
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -952,7 +954,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 932783221}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 21300000, guid: 1dd32c8011e367f498943525ad919ed7, type: 3}
   offset: 0
   fromPosition: {fileID: 61268474}
   toPosition: {fileID: 1566121145}
@@ -981,7 +983,7 @@ MonoBehaviour:
   storyText: Oh come now, Oct! You don't recognize me? I'm hurt. . .
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1008,7 +1010,7 @@ MonoBehaviour:
   storyText: Wah, a ghost! Please don't kill me! I've got much to do!
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1035,7 +1037,7 @@ MonoBehaviour:
   storyText: Octavius, wake up!
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1062,7 +1064,7 @@ MonoBehaviour:
   storyText: Alright fine :(
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1089,7 +1091,7 @@ MonoBehaviour:
   storyText: ' . . . >:('
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1116,7 +1118,7 @@ MonoBehaviour:
   storyText: Oh . . . can you pay me rent? :D
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1143,7 +1145,7 @@ MonoBehaviour:
   storyText: No >:(
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1171,7 +1173,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1203521642973792115}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 2146735561}
@@ -1201,7 +1203,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 932783221}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 21300000, guid: 1dd32c8011e367f498943525ad919ed7, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 61268474}
@@ -1230,7 +1232,7 @@ MonoBehaviour:
   storyText: 'Alright fine. . . Are you really a kil- '
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1277,7 +1279,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -60.938805
     y: 15.883804
-    width: 120
+    width: 121.24996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1340,9 +1342,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 212.68092
-    y: -211.197
-    width: 174.28566
+    x: 209.55592
+    y: -212.7595
+    width: 188.74992
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1375,7 +1377,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 418.9203
     y: -86.57882
-    width: 158.57138
+    width: 167.49994
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1521,7 +1523,7 @@ MonoBehaviour:
     other person will be compliant in telling you!
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1548,7 +1550,7 @@ MonoBehaviour:
   storyText: Well . . . no, but-
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1575,7 +1577,7 @@ MonoBehaviour:
   storyText: If I was a killer, would you be still standing here, alive?
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1603,7 +1605,7 @@ MonoBehaviour:
     haunted theater!
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1631,7 +1633,7 @@ MonoBehaviour:
     to play?
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1658,7 +1660,7 @@ MonoBehaviour:
   storyText: Of course! Every day I always play.
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1685,7 +1687,7 @@ MonoBehaviour:
   storyText: I don't know how well you are with the theremin. Have you been playing?
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1712,7 +1714,7 @@ MonoBehaviour:
   storyText: You have to work for it. Remember, it has been some time Oct.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1739,7 +1741,7 @@ MonoBehaviour:
   storyText: I couldn't live with the idea of never teaching you my final lesson.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1766,7 +1768,7 @@ MonoBehaviour:
   storyText: I was sad that no one else could teach you how to play the theremin.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1793,7 +1795,7 @@ MonoBehaviour:
   storyText: Before I died, all I could think about was leaving you all.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1822,7 +1824,7 @@ MonoBehaviour:
     I hope?
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1849,7 +1851,7 @@ MonoBehaviour:
   storyText: Nah, I'm comfortable as a musician.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1877,7 +1879,7 @@ MonoBehaviour:
     to spend to get it cleaned or get a new one.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1904,7 +1906,7 @@ MonoBehaviour:
   storyText: But you're a ghost!
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1932,7 +1934,7 @@ MonoBehaviour:
     up in heaven?
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1959,7 +1961,7 @@ MonoBehaviour:
   storyText: Well, yeah. But you're different.
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1986,7 +1988,7 @@ MonoBehaviour:
   storyText: Your final lesson? What is it?
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2013,7 +2015,7 @@ MonoBehaviour:
   storyText: 'Fine, a ghost musician. I have no idea why you''re worried about technicalities. '
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2040,7 +2042,7 @@ MonoBehaviour:
   storyText: Weren't you concerned over ghosts going to kill you?
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2068,7 +2070,7 @@ MonoBehaviour:
     know.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2096,7 +2098,7 @@ MonoBehaviour:
     soon, I can't just tell you what it is.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2123,7 +2125,7 @@ MonoBehaviour:
   storyText: Yep, good ol' Claire, but not a murderer.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2150,7 +2152,7 @@ MonoBehaviour:
   storyText: Wait, no way. Claire, is that you?!
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2178,7 +2180,7 @@ MonoBehaviour:
     we''re not related, but your family accepts me as your own.'
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2205,7 +2207,7 @@ MonoBehaviour:
   storyText: Ok then, who are you?
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2288,7 +2290,7 @@ MonoBehaviour:
   storyText: This place has been abandoned for some time right?
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2315,7 +2317,7 @@ MonoBehaviour:
   storyText: It could be possible that the theater isn't the right -
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2343,7 +2345,7 @@ MonoBehaviour:
     someone, but I don't know who.
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2371,7 +2373,7 @@ MonoBehaviour:
     perform the piece!
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2398,7 +2400,7 @@ MonoBehaviour:
   storyText: 'Seems like we did put a lot of expectations from you guys. '
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2426,7 +2428,7 @@ MonoBehaviour:
     for people!
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2453,7 +2455,7 @@ MonoBehaviour:
   storyText: This family theater of yours looks terrible, abandoned even.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2480,7 +2482,7 @@ MonoBehaviour:
   storyText: If so, I feel like you could have chosen a better place.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2507,7 +2509,7 @@ MonoBehaviour:
   storyText: 'Oh dear . . . I guess we did have a lot of fun playing! '
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2535,7 +2537,7 @@ MonoBehaviour:
     the piece?
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2584,7 +2586,7 @@ MonoBehaviour:
     but never really satisfied everyone.
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2612,7 +2614,7 @@ MonoBehaviour:
     it was abandoned shortly after.
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2640,7 +2642,7 @@ MonoBehaviour:
     are still good at what we do!
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2666,7 +2668,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 315.75238
     y: 30.801903
-    width: 167.1428
+    width: 179.99992
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2682,7 +2684,6 @@ MonoBehaviour:
   - {fileID: 62825461}
   - {fileID: 62825456}
   - {fileID: 62825459}
-  - {fileID: 62825462}
   - {fileID: 62825460}
   - {fileID: 62825463}
   - {fileID: 62825450}
@@ -2690,6 +2691,7 @@ MonoBehaviour:
   - {fileID: 62825449}
   - {fileID: 62825454}
   - {fileID: 62825452}
+  - {fileID: 62825462}
   - {fileID: 62825455}
 --- !u!114 &62825439
 MonoBehaviour:
@@ -2709,7 +2711,7 @@ MonoBehaviour:
     popularity. '
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2948,7 +2950,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 104.26657
     y: 32.63449
-    width: 177.1428
+    width: 192.49992
     height: 40
   tint: {r: 0.8679245, g: 0.32353836, b: 0, a: 1}
   useCustomTint: 1
@@ -3065,7 +3067,7 @@ MonoBehaviour:
   storyText: Great, then let's go!
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3091,7 +3093,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 507.78143
     y: 40.755135
-    width: 162.85709
+    width: 174.99994
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3194,7 +3196,7 @@ MonoBehaviour:
     me. . .
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3242,7 +3244,7 @@ MonoBehaviour:
   storyText: I'll be more than happy to volunteer and play with them!
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3270,7 +3272,7 @@ MonoBehaviour:
     on your sheet.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3298,7 +3300,7 @@ MonoBehaviour:
     fine to me. . .
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3326,7 +3328,7 @@ MonoBehaviour:
     And I also want to hear your progress with the theremin.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3354,7 +3356,7 @@ MonoBehaviour:
     say you?
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3381,7 +3383,7 @@ MonoBehaviour:
   storyText: Maybe they were missing another member.
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3409,7 +3411,7 @@ MonoBehaviour:
     play the theremin! But I wonder where they all are
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3436,7 +3438,7 @@ MonoBehaviour:
   storyText: Sure thing! Where to first?
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3463,7 +3465,7 @@ MonoBehaviour:
   storyText: Seems like this place isn't really abandoned. There are people here.
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3490,7 +3492,7 @@ MonoBehaviour:
   storyText: They must have been the ones to have ssent me the letter!
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3628,7 +3630,7 @@ MonoBehaviour:
   storyText: "Yeah, the piece you guys were playing sounded exactly what Oct got.\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3655,7 +3657,7 @@ MonoBehaviour:
   storyText: "Actually, we came here because someone sent us this musical sheet.\r\n"
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3682,7 +3684,7 @@ MonoBehaviour:
   storyText: "Possibly because you whined too much about being killed by killer ghosts!\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3709,7 +3711,7 @@ MonoBehaviour:
   storyText: "Hehe, no. Like I said, even I don't know why I'm back.\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3820,7 +3822,7 @@ MonoBehaviour:
     to stop being an idiot? All that man wants is perfection yet we give it to him.\r\n"
   description: 
   character: {fileID: 7642279335806070256}
-  portrait: {fileID: 21300000, guid: 1844620fa148d4dc89443ca7b33205e1, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3903,7 +3905,7 @@ MonoBehaviour:
     of the music, he'll modify a big portion of the piece.\r\n"
   description: 
   character: {fileID: 3753643582390166400}
-  portrait: {fileID: 21300000, guid: 6b100daff28d04f69a49015f83966425, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3959,7 +3961,7 @@ MonoBehaviour:
     by some bloke called Perfect Fourth.\r\n"
   description: 
   character: {fileID: 7642279335806070256}
-  portrait: {fileID: 21300000, guid: 1844620fa148d4dc89443ca7b33205e1, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4014,7 +4016,7 @@ MonoBehaviour:
   storyText: "Sounds terrible! Why would he do this?\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4042,7 +4044,7 @@ MonoBehaviour:
     so.\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4069,7 +4071,7 @@ MonoBehaviour:
   storyText: "Viola, Reed. Nice to meet you again!\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4096,7 +4098,7 @@ MonoBehaviour:
   storyText: "Yep, but a ghost technically.\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4178,7 +4180,7 @@ MonoBehaviour:
   storyText: "Stuck, what do you mean stuck?\r\n"
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4205,7 +4207,7 @@ MonoBehaviour:
   storyText: "It sounds like there's more to the story.\r\n"
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4395,7 +4397,7 @@ MonoBehaviour:
   storyText: "Well I'm here now and I have to say, you're doing good!\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4422,7 +4424,7 @@ MonoBehaviour:
   storyText: "Oh right, hold on.\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4641,7 +4643,7 @@ MonoBehaviour:
     them!\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4723,7 +4725,7 @@ MonoBehaviour:
     like I\u2019m at the peak of my life."
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4750,7 +4752,7 @@ MonoBehaviour:
   storyText: "*Whispering* Oct, where are your manners? Greet your elderly!\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4777,7 +4779,7 @@ MonoBehaviour:
   storyText: "That's them?! Why do they look so young? \r\n"
   description: 
   character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4805,7 +4807,7 @@ MonoBehaviour:
     them? Viola and Reed?\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4858,8 +4860,9 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Whoa, more ghosts. Think they'll kill us?\r\n"
   description: 
-  character: {fileID: 932783221}
-  portrait: {fileID: 21300000, guid: a00616f58ec3087488b4023b33998ff4, type: 3}
+  character: {fileID: 2423983154954752054, guid: b29e7be71e366de44b18139a0bf99767,
+    type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4940,7 +4943,7 @@ MonoBehaviour:
   storyText: "Then we're stuck in circles again. . .\r\n"
   description: 
   character: {fileID: 3753643582390166400}
-  portrait: {fileID: 21300000, guid: 6b100daff28d04f69a49015f83966425, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4995,7 +4998,7 @@ MonoBehaviour:
     them away.\r\n"
   description: 
   character: {fileID: 3753643582390166400}
-  portrait: {fileID: 21300000, guid: 6b100daff28d04f69a49015f83966425, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5023,7 +5026,7 @@ MonoBehaviour:
     know everyone sees me as a big guy, but I don't want to hurt anyone.\r\n\r\n"
   description: 
   character: {fileID: 3753643582390166400}
-  portrait: {fileID: 21300000, guid: 6b100daff28d04f69a49015f83966425, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5188,7 +5191,7 @@ MonoBehaviour:
   storyText: And let me tell you another thing, this place is a mess!
   description: 
   character: {fileID: 7642279335806070256}
-  portrait: {fileID: 21300000, guid: 1844620fa148d4dc89443ca7b33205e1, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5215,7 +5218,7 @@ MonoBehaviour:
   storyText: "Sure. Oct, are you ready to go?\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5549,7 +5552,7 @@ MonoBehaviour:
   storyText: "Never hurts to try, but where should we go. Where is this Perfect Fourth?\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5576,7 +5579,7 @@ MonoBehaviour:
   storyText: "Aria?\r\n"
   description: 
   character: {fileID: 1203521642973792115}
-  portrait: {fileID: 21300000, guid: c784f0adc2ce544be915fc26a2b4b510, type: 3}
+  portrait: {fileID: 21300000, guid: fc6164e804761cf4dbb25d0f9504f1f2, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5908,6 +5911,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1028515581
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 6911870651173891441}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1028515582}
+  - component: {fileID: 7642279335806070256}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1028515582
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 6911870651173891441}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1028515581}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1632601357}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1038896527
 GameObject:
   m_ObjectHideFlags: 0
@@ -6051,8 +6085,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1785576700595943021}
-  - {fileID: 3061232075749662539}
+  - {fileID: 1881084637}
+  - {fileID: 1632601357}
   - {fileID: 1435682280}
   - {fileID: 4443778669941787572}
   - {fileID: 364529691664002548}
@@ -6063,6 +6097,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1204934113
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 6249915109586968701}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1785576700595943021}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &1422410419
 GameObject:
   m_ObjectHideFlags: 1
@@ -6182,6 +6232,53 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1435682279}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1451025134
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 6249915109586968701}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1451025135}
+  - component: {fileID: 3753643582390166400}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1451025135
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 6249915109586968701}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451025134}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1881084637}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1522669815
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 6911870651173891441}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3061232075749662539}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &1554301267
 GameObject:
   m_ObjectHideFlags: 0
@@ -6314,6 +6411,70 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
+--- !u!1 &1632601356
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 6911870651173891441}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1632601357}
+  m_Layer: 0
+  m_Name: Viola (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1632601357
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 6911870651173891441}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1632601356}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3061232075749662539}
+  - {fileID: 1028515582}
+  m_Father: {fileID: 1167954633}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1881084636
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 6249915109586968701}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1881084637}
+  m_Layer: 0
+  m_Name: Reed (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1881084637
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 6249915109586968701}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1881084636}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1785576700595943021}
+  - {fileID: 1451025135}
+  m_Father: {fileID: 1167954633}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2146735560
 GameObject:
   m_ObjectHideFlags: 0
@@ -6475,12 +6636,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!4 &1785576700595943021 stripped
+--- !u!4 &1785576700595943021
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 1785576700595943021, guid: 43ff6457eee28974ab503f6f829a6043,
     type: 3}
   m_PrefabInstance: {fileID: 6249915109586968701}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204934113}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1881084637}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2857166847096466054 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2857166847096466054, guid: df7cb89e67552394e8982be019d06814,
@@ -6493,24 +6663,41 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!4 &3061232075749662539 stripped
+--- !u!4 &3061232075749662539
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 3061232075749662539, guid: aac00e2584ce6664d8a6944d39883ebe,
     type: 3}
   m_PrefabInstance: {fileID: 6911870651173891441}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &3753643582390166400 stripped
+  m_GameObject: {fileID: 1522669815}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1632601357}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3753643582390166400
 MonoBehaviour:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 3753643582390166400, guid: 43ff6457eee28974ab503f6f829a6043,
     type: 3}
   m_PrefabInstance: {fileID: 6249915109586968701}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 1451025134}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nameText: 
+  nameColor: {r: 1, g: 1, b: 1, a: 1}
+  soundEffect: {fileID: 0}
+  portraits: []
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: 
 --- !u!1001 &4443778669941787571
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6847,11 +7034,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1167954633}
     m_Modifications:
-    - target: {fileID: 7175710435751098294, guid: 43ff6457eee28974ab503f6f829a6043,
-        type: 3}
-      propertyPath: m_Name
-      value: Reed
-      objectReference: {fileID: 0}
     - target: {fileID: 1785576700595943021, guid: 43ff6457eee28974ab503f6f829a6043,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6906,6 +7088,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7175710435751098294, guid: 43ff6457eee28974ab503f6f829a6043,
+        type: 3}
+      propertyPath: m_Name
+      value: Reed
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43ff6457eee28974ab503f6f829a6043, type: 3}
@@ -6928,11 +7115,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1167954633}
     m_Modifications:
-    - target: {fileID: 6441326838152966731, guid: aac00e2584ce6664d8a6944d39883ebe,
-        type: 3}
-      propertyPath: m_Name
-      value: Viola
-      objectReference: {fileID: 0}
     - target: {fileID: 3061232075749662539, guid: aac00e2584ce6664d8a6944d39883ebe,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6988,20 +7170,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6441326838152966731, guid: aac00e2584ce6664d8a6944d39883ebe,
+        type: 3}
+      propertyPath: m_Name
+      value: Viola
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aac00e2584ce6664d8a6944d39883ebe, type: 3}
---- !u!114 &7642279335806070256 stripped
+--- !u!114 &7642279335806070256
 MonoBehaviour:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 7642279335806070256, guid: aac00e2584ce6664d8a6944d39883ebe,
     type: 3}
   m_PrefabInstance: {fileID: 6911870651173891441}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 1028515581}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nameText: 
+  nameColor: {r: 1, g: 1, b: 1, a: 1}
+  soundEffect: {fileID: 0}
+  portraits: []
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: 
 --- !u!1001 &8438422131063427744
 PrefabInstance:
   m_ObjectHideFlags: 0
